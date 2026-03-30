@@ -6,13 +6,13 @@
 <head runat="server">
     <title>School Management System</title>
     <meta charset="UTF-8">
-    <link href="file:///d:\jobs-2026\projects\schoolmanagementsystem\schoolmanagementsystem\content\bootstrap.min.css" rel="stylesheet" />
-        <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-        <link href="file:///d:\jobs-2026\projects\schoolmanagementsystem\schoolmanagementsystem\content\styles.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+        <link href="../Content/styles.css" rel="stylesheet" />
 
-    <script src="file:///d:\jobs-2026\projects\schoolmanagementsystem\schoolmanagementsystem\scripts\jquery-3.0.0.min.js"></script>
-    <script src="file:///d:\jobs-2026\projects\schoolmanagementsystem\schoolmanagementsystem\scripts\popper.min.js"></script>
-    <script src="file:///d:\jobs-2026\projects\schoolmanagementsystem\schoolmanagementsystem\scripts\bootstrap.min.js"></script>
+    <script src="../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Scripts/popper.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
         <script>
             $(document).ready(function () {
                 $(".siderbar_menu li").click(function () {
